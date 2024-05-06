@@ -1,10 +1,10 @@
 # SlimRLFN
 
-**SlimRLFN: Making RLFN Smaller and Faster Again**
+**[SlimRLFN: Making RLFN Smaller and Faster Again](https://arxiv.org/abs/2404.10343)**
 
 [NTIRE2024 Efficient Super-Resolution](https://codalab.lisn.upsaclay.fr/competitions/17547)
 
-Shenglong Zhou<sup>1</sup>, and Binbin Chen<sup>2</sup>
+Shenglong Zhou<sup>1</sup> and Binbin Chen<sup>2</sup>
 
 <sup>1</sup>University of Science and Technology of China (USTC)
 
