@@ -33,6 +33,6 @@ CUDA_VISIBLE_DEVICES=0 python test_demo.py --data_dir [path to your data dir] --
 ```
 
 ## Contact
-Please be free to contact us by e-mail (slzhou96@mail.ustc.edu.cn) or WeChat (slzhou96) if you have any questions.
+Please be free to contact us by e-mail (slzhou96@mail.ustc.edu.cn) or WeChat (ZslBlcony) if you have any questions.
 
 
